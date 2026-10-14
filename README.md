@@ -11,9 +11,9 @@ Since the laser beam parameters play crucial role to measure the nonlinear optic
 
 <b>Name of Developer | <b> NANCY
 :--|:--|
-<b> Rajkiya Engineering College Banda| <b>  
-<b> nancy91400@gmail.com | <b>  
-<b> Information Technology |  <b>
+<b> Institude| <b> REC Banda 
+<b> Email id | <b> nancy91400@gmail.com
+<b> Department |  <b>Information Technology
 
 ### Contributors List
 
