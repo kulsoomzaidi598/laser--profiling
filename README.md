@@ -1,7 +1,7 @@
 ## Introduction
 
 
-<b>Discipline | <b> IT
+<b>Discipline | <b> Information Technology
 :--|:-|
 <b> Lab | <b> Virtual lab
 <b> Experiment |     <b> laser beam profiling and spatial mode selection(TEMmm)
